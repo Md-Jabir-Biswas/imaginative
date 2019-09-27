@@ -1,0 +1,431 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px){
+
+/*header start*/
+header {
+    padding-top: 10px;
+}
+
+.menu1 {
+    padding-bottom: 10px;
+}
+
+.button1 {
+	font-size: 12px;
+    margin-left: 0px;
+}
+.form-control {
+    font-size: 12px;
+}
+.navbar-toggler {
+    font-size: 12px;
+}
+
+.menu2 ul li a{
+	font-size: 12px;
+}
+/*header end*/
+
+/*slider start*/
+.slider{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+.cid {
+    bottom: -54px;
+}
+
+.cid li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: black;
+}
+/*slider end*/
+
+/*title start*/
+.title1 {
+    padding: 30px 0;
+}
+
+.common-title h6 {
+    font-size: 12px;
+}
+.common-title h6:after {
+    top: 30%;
+    width: 22%;
+}
+.common-title h6:before {
+    top: 30%;
+    width: 22%;
+    margin-left: 90px;
+}
+/*title start*/
+
+/*pleces start*/
+.place_img {
+    text-align: center;
+    margin-top: -10px;
+}
+.place_contant {
+    text-align: center;
+}
+.place_contant h5 {
+    font-size: 15px;
+    margin-top: 8px;
+}
+.place_contant p {
+    font-size: 14px;
+    margin-bottom: 0px;
+}
+/*pleces end*/
+
+/*second title*/
+.title2 {
+	padding: 0px 0;
+    padding-bottom: 10px;
+}
+.common-title2 h6 {
+    font-size: 12px;
+}
+.common-title2 h6:after {
+    width: 31%;
+    height: 5px;
+    margin-left: -70%;
+}
+.common-title2 h6:before {
+    width: 31%;
+    height: 5px;
+    margin-left: 90px;
+}
+/*second title*/
+
+/*extreme start*/
+.extreme_img {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.m_left {
+    margin-left: 0px;
+    text-align: center;
+}
+.extreme_contant h4 {
+    font-size: 18px;
+}
+
+.extreme_contant h5 {
+    font-size: 16px;
+}
+.extreme_contant p {
+    font-size: 16px;
+}
+
+.extreme_img2 {
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.extreme_contant2 {
+    text-align: center;
+}
+.extreme_contant2 h4 {
+    font-size: 18px;
+    margin-left: 0px;
+}
+.extreme_contant2 h5 {
+    font-size: 17px;
+    color: #97455f;
+    margin-left: 0px;
+    text-align: center;
+}
+.extreme_contant2 h6 {
+    font-size: 16px;
+    margin-left: 0px;
+    text-align: center;
+}
+.message_c {
+    padding-right: 15px;
+}
+/*extreme end*/
+/*detai start*/
+.detail {
+    text-align: center;
+}
+.detail1 {
+    margin-bottom: -35px;
+}
+.detail_contant h6 {
+    margin-top: 15px;
+}
+.btn_last {
+    border-radius: 0.30rem;
+    padding: 5px 7px;
+}
+/*detail end*/
+
+}
+
+/**Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px){
+/*title start*/
+.title1 {
+    padding: 28px 0;
+}
+.common-title h6:after {
+    top: 29%;
+    width: 28%;
+}
+.common-title h6:before {
+    top: 29%;
+    width: 28%;
+    margin-left: 117px;
+}
+/*title start*/
+
+/*places start*/
+.place_img {
+    text-align: center;
+}
+.place_contant {
+    text-align: center;
+}
+/*places end*/
+
+/*second title*/
+.common-title2 h6:after {
+    width: 33%;  
+}
+.common-title2 h6:before {
+    width: 33%;
+    margin-left: 118px;
+}
+/*second title*/
+
+/*extreme start*/
+.extreme_img {
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+.m_left {
+    text-align: center;
+}
+.extreme_contant h4 {
+    margin-left: 36px;
+}
+.extreme_contant h5 {
+    margin-left: 36px;
+}
+.extreme_contant p {
+    margin-left: 36px;
+}
+.extreme_img2 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.extreme_contant2 {
+    text-align: center;
+    margin-left: 36px;
+}
+.extreme_contant2 h6 {
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: -36px;
+}
+/*extreme end*/
+/*contact bar start*/
+.contact_c h3 {
+    font-size: 21px;
+    margin-left: 0px;
+    margin-top: 15px;
+    text-align: center;
+}
+.contact_c h5 {
+    font-size: 17px;
+    text-align: center;
+    margin-right: 40px;
+}
+.button_c {
+    margin-left: 110px;
+    font-size: 20px;
+    border-radius: 0.30rem;
+}
+.btn_c {
+    margin-top: -8px;
+    padding-bottom: 15px;
+}
+/*contact bar end*/
+
+/*detai start*/
+.detail {
+    text-align: center;
+}
+.detail1 {
+    margin-bottom: -35px;
+}
+.detail_contant h6 {
+    margin-top: 15px;
+}
+/*detail end*/
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px){
+
+/*header start*/
+header {
+   background-color: #ebebeb;
+   padding-top: 25px;
+}
+.menu1 {
+    padding-bottom: 25px;
+}
+/*header end*/
+
+/*slider start*/
+.slider{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-left: 25px;
+	margin-right: 25px;
+
+}
+/*slider end*/
+/*title start*/
+.common-title h6:after {
+    width: 34%;
+}
+.common-title h6:before {
+    width: 34%;
+    margin-left: 115px;
+}
+/*title start*/
+
+/*places start*/
+.place_contant h5 {
+    font-size: 18px;
+}
+.place_contant p {
+    font-size: 15px;
+}
+/*places end*/
+
+/*places Start*/
+.place_img {
+    margin-top: 5px;
+    width: 200%;
+    padding-right: 10px;
+}
+/*places end*/
+
+/*second title*/
+.common-title2 h6 {
+    font-size: 14px;
+}
+.common-title2 h6:after {
+    width: 31%;
+    margin-left: -64%;
+}
+.common-title2 h6:before {
+    width: 31%;
+    margin-left: 101px;
+    
+}
+/*second title*/
+/*extreme start*/
+.extreme_contant2 h6 {
+    margin-left: -60px;
+}
+/*extreme end*/
+
+
+/*contact bar*/
+.contact_c h3 {
+    font-size: 23px;
+}
+.contact_c h5 {
+    font-size: 16px;
+    padding-bottom: 15px;
+}
+.button_c {
+	padding: 15px 5px;
+    font-size: 21px;
+    border-radius: 0.50rem;
+}
+.message_c {
+    padding-right: 13px;
+}
+/*contact bar*/
+
+/*detail bar start*/
+.detail1 {
+    margin-left: 45px;
+}
+.detail2 {
+    margin-left: 75px;
+}
+/*detail bar end*/
+
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px){
+/*title start*/
+.common-title h6:after {
+    width: 38%;
+}
+.common-title h6:before {
+    width: 38%;
+    margin-left: 113px;
+}
+/*title end*/
+/*second title start*/
+.common-title2 h6:after {
+    width: 32%;
+}
+.common-title2 h6:before {
+    width: 33%;
+}
+/*second title end*/
+
+/*contat bar*/
+.contact_c h3 {
+    font-size: 33px;
+}
+.contact_c h5 {
+    font-size: 16px;
+    margin-top: 0px;
+    padding-bottom: 15px;
+}
+.button_c {
+    padding: 8px 5px;
+    font-size: 30px;
+    border-radius: 0.50rem;
+}
+
+/*contact bar*/
+/*detai start*/
+.message_c {
+    padding-right: 13px;
+}
+/*detail end*/
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+/*detail start	*/
+.message_c {
+    padding-right: 13px;
+}
+
+/*detail end*/
+
+}
